@@ -32,7 +32,6 @@ Always up for learning , creating meaningful tech, and geeking out over clean co
   <img src="https://img.icons8.com/color/48/react-native.png" title="ReactJS"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" title="NodeJS"/>
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch"/>
   <img src="https://img.icons8.com/ios-filled/48/ffffff/flask.png" title="FlaskAPI"/>
   <img src="https://img.icons8.com/fluency/48/api-settings.png" title="RestAPI"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
