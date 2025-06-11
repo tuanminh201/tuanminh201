@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Minh</h1>
-<h3 align="center">🧠 Machine Learning Enthusiast | 📚 CS Student @ Johannes Gutenberg University of Mainz</h3>
+<h3 align="center">🧠 Software development Enthusiast | 📚 CS Student @ Johannes Gutenberg University of Mainz</h3>
 
 ---
 
