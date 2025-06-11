@@ -3,12 +3,12 @@
 
 ---
 
-Hey there! 👋 I'm a CS student who’s into Software Development 💻 and AI 🤖. I enjoy building cool stuff, solving real-world problems with code, and exploring how intelligent systems can improve everyday life ✨.
+Hey there! 👋 I'm a CS student who’s into Software Development and AI . I enjoy building cool stuff, solving real-world problems with code, and exploring how intelligent systems can improve everyday life .
 
 Currently getting hands-on experience through research and uni projects  — and planning to dive into a Master’s in Machine Learning soon 🎯.
 
 Always up for learning , creating meaningful tech, and geeking out over clean code , smart systems, or just cool ideas.
-📁 Check out my projects here: [GitHub Projects](https://github.com/tuanminh201?tab=repositories)
+Check out my projects here: [GitHub Projects](https://github.com/tuanminh201?tab=repositories)
 
 ---
 
