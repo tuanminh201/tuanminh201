@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Tuan Minh Do</h1>
+<h1 align="center">Yo 👋, I'm Minh</h1>
 <h3 align="center">🧠 Machine Learning Enthusiast | 📚 CS Student @ Johannes Gutenberg University of Mainz</h3>
 
 ---
