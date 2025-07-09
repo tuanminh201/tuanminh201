@@ -28,6 +28,7 @@ Check out my projects here: [GitHub Projects](https://github.com/tuanminh201?tab
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/kotlin.png" title="Kotlin"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/color/48/react-native.png" title="ReactJS"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" title="NodeJS"/>
